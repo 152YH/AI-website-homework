@@ -1,12 +1,12 @@
 <h1>原圖<h1>
 
-![alt text](images.png)
+![alt text](images/images.png)
 <h1>生成出來的圖<h1>
 
-![alt text](images-1.png)
+![alt text](images/images-1.png)
 <h1>工作流程圖<h1>
 
-![alt text](images-2.png)
+![alt text](images/images-2.png)
 
 
 <h2>正提示詞:
